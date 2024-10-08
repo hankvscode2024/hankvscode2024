@@ -10,4 +10,5 @@
 hankvscode2024/hankvscode2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/893468cc-028b-439a-8fc6-7101809a9fbb)
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
